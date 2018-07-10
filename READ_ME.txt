@@ -10,8 +10,8 @@ Feel free to contact me via my mail address -> gokberk.92@hotmail.com
 ----------------------------------------------------------------------------------
 
 
-Web kamerasýný kullanarak fotoðraf çekmek için yapýlmýþ ufak bir proje.
+Web kamerasını kullanarak fotoğraf çekmek için yapılmış ufak bir proje.
 
-Projenin yapýmýnda AForge Framework'ünü kullandým.
+Projenin yapımında AForge Framework'ünü kullandım.
 
-Herhangi bir sorun yaþarsýnız mail adresim üzerimden benimle iletiþime geçebilirsiniz -> gokberk.92@hotmail.com
+Herhangi bir sorun yaşarsanız mail adresim üzerimden benimle iletişime geçebilirsiniz -> gokberk.92@hotmail.com
